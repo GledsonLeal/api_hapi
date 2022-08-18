@@ -1,0 +1,6 @@
+npm install --save @hapi/hapi
+https://hapi.dev/tutorials/gettingstarted/?lang=en_US
+
+
+BOAS PRÁTICAS COM API JSON
+https://jsonapi.org/
